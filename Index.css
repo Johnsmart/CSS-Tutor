@@ -1,0 +1,22 @@
+*{
+    padding: 30px;
+}
+#square{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 18px;
+}
+#circle{
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+    background-color: blue;
+    margin: 18px;
+}
+#rectangle{
+    width: 250px;
+    height: 80px;
+    background-color: yellow;
+    margin: 18px;
+}
